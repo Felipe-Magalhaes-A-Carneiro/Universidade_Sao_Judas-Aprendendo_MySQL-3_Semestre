@@ -1,5 +1,3 @@
-# Universidade_Sao_Judas-Aprendendo_MySQL-3_Semestre
-
 O adequado uso deste programa, necessita que você instale algumas dependências no NodeJs. Siga as etapas a seguir:
 
 1- Crie um novo terminal;
@@ -14,8 +12,6 @@ npm install express
 e
 
 npm install nodemon --save-dev
-
-4- Abra o arquivo package.json e adicione o script:
 
 5- Em seguida, utilize o seguinte comando no terminal raiz do projeto:
 
